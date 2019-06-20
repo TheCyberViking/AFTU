@@ -31,17 +31,17 @@ false positive, If you do not disable the antivirus it can damage the
 tool and cause some features not to function properly. To see how to
 disable your antivirus see attached page.
 
-2:Click and Run the Forensic .bat file in the main directory, and follow
+2: Click and Run the Forensic .bat file in the main directory, and follow
 the on screen instruction make sure to read the instructions or the
 program will exit.
 
-3:Once the program has runs, the extra features will be available from
+3: Once the program has runs, the extra features will be available from
 the new CMD window.
 
-4:All recovered data will be saved in the folder named recovery, under
+4: All recovered data will be saved in the folder named recovery, under
 the time and date of the program being run
 
-5. if a program opens just click X on the top right corner as the program
+5: if a program opens just click X on the top right corner as the program
 on the windows system may not have been updated to most recent. this is
 not an issue and the information will still be recovered
 
