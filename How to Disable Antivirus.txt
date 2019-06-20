@@ -1,0 +1,181 @@
+How to Temporarily Disable your Anti-virus
+
+AVAST
+Right-click on the avast! icon in system tray (looks like this: but
+orange in color starting with v5). Select avast! shields control and
+there will be options to disable avast for 10 minutes, 1 hour, until the
+computer is restarted or permanently.
+
+AVG
+Right-click the AVG icon in the system tray next to the clock.
+Click Temporarily disable AVG protection.
+Choose how long you want the protection to be disabled and whether to
+disable the Firewall as well, and then click OK.
+You can disable AVG also from the Advanced settings:
+Open the AVG Program.
+On the Options menu, click Advanced settings.
+Select Temporarily disable AVG protection in the menu on the left side.
+Click the Temporarily disable AVG protection button.
+Choose how long you want the protection to be disabled and whether to
+disable the Firewall as well, and then click OK.
+
+AVIRA ANTIVIR
+Please navigate to the system tray on the bottom right hand corner and
+look for an open white umbrella on red background.
+* right click it-> untick the option AntiVir Guard enable.
+* You should now see a closed, white umbrella on a red background (looks
+to this: )
+
+BIT DEFENDER
+* Double click on the system icon for Bit Defender.
+* When the Bit Defender window appears, move mouse arrow to the left side
+and click >> Virus Shield.
+* Move mouse arrow to the black check by Virus Shield is enabled and
+click.
+* The black works will change to red, >> Virus Shield is disabled.
+* Move mouse arrow to the top right corner and click the down arrows.
+* Bit Defender is now inactive.
+* To enable Bit Defender, do the same steps except click to enable.
+
+BKAV Internet Security Professional
+* Double click the tray icon to bring up the GUI.
+* Choose Options/Tùy chon (2nd tab at the left, depending on what
+language you are using).
+* Uncheck Real-time Protection.
+* You can also right click on the tray icon and choose Exit/Thoát
+
+CA Internet Security Suite 2010
+* To turn off the Firewall, right-click on the CA Shield icon in the
+system tray, click My Internet, then click Disable Firewall.
+* To turn it back on, right click system tray icon, click My Internet,
+then click Enable Firewall.
+* To temporarily disable the Antivirus, right-click the CA Shield icon in
+the system tray, click My Computer, then click Enable Snooze.
+* Enter the snooze time in minutes (up to 999, approx 16 2/3 hours) in
+the box and click Snooze.
+* To end snooze, follow the same procedure and click Wake Now on the page
+for entering snooze time.
+* To disable Antivirus on a longer basis, double-click the CA Shield icon
+in the system tray.
+* When Security Center comes up, click Update Settings in the My Computer
+tab.
+* Then click the red X next to Auto Scan.
+* To re-enable, follow the same procedure and click the green checkmark.
+
+Comodo Internet Security
+* Right click the icon on the system tray.
+* Hover over Antivirus, then Firewall and Defence+ to disable them.
+* To reactivate real-time protection, repeat step 2 but set each
+to Enabled.
+
+ESET NOD32 ANTIVIRUS V4
+* Double click on the system tray icon: on the bottom right hand corner.
+* Select Disable real-time file system protection.
+* A popup will ask "Are you sure you want to disable...protection?"
+* Click "Yes" to disable the Antivirus guard.
+
+Emsisoft Anti-Malware & Internet Security
+* Right-click on the Emsisoft shield icon in the system tray (green with
+white outline).
+* Choose Pause protection, then Disable until computer restart.
+* The shield icon will turn red with a white cross in the middle, and the
+GUI will be in red instead of green.
+* Note: Do NOT exit EAM/EIS instead of disabling real-time protection, as
+File Guard will remain active even when the program itself is not
+running.
+
+ESET SMART SECURITY
+* Double click on the system tray icon: to open the main application
+window.
+* Or via Start >> All Programs >> ESET >> ESET Smart Security.
+* Click on Setup >> Antivirus and antispyware >> Temporarily disable
+Antivirus and antispyware protection.
+* When prompted to confirm temporarily disable select Yes.
+* Note: Protection will be automatically started after a system reboot.
+
+F-SECURE ANTIVIRUS
+Please navigate to the system tray on the bottom right hand corner and
+look for a blue sign.
+* right click it-> select Unload.
+* The F-Secure sign should now be surrounded by a red striked through
+circle (looking like this: )
+
+KASPERSKY ANTIVIRUS
+Please navigate to the system tray on the bottom right hand corner and
+look for a sign.
+* right click it-> select Pause Protection.
+* click on -> By User Request
+* a popup will claim that protection is now disabled and a sign like
+this: will now be shown.
+
+G-Data Internet Security
+* Go to Settings > AntiVirus > Real-time protection.
+* Under Virus monitor, Behavior monitor and Exploit Protection,
+uncheck Enabled (recommended).
+* To reactivate real-time protection, repeat step 1 and re-check
+all Enabled (recommended) checkboxes.
+
+MCAFEE ANTIVIRUS
+Please navigate to the system tray on the bottom right hand corner and
+look for a sign.
+* Right-click it -> chose "Exit."
+* A popup will warn that protection will now be disabled. Click on "Yes"
+to disable the Antivirus guard.
+
+MCAFEE SECURITY CENTER 7.1
+Please navigate to the system tray and double-click the taskbar icon to
+open Security Center.
+* Click Advanced Menu (bottom mid-left).
+* Click Configure (left).
+* Click Computer & Files (top left).
+* VirusScan can be disabled in the right-hand module and set when it
+should resume or you can do that manually later on.
+* Do the same via Internet & Network for Firewall Plus.
+Instructions to disable McAfee Security
+
+MICROSOFT SECURITY ESSENTIALS
+* Right-click on the MSE icon in the system tray and choose Open.
+* Click the Settings tab, then click Real Time Protection.
+* Uncheck the box next to "Turn on real time protection".
+* Click the "Save changes" button.
+* Exit MSE when done.
+
+NORTON ANTIVIRUS (by Symantec)
+Please navigate to the system tray on the bottom right hand corner and
+look for a sign.
+* right-click it -> chose "Disable Auto-Protect."
+* select a duration of 5 hours (this assures no interference with the
+cleanup of your pc)
+* click "Ok."
+* a popup will warn that protection will now be disabled and the sign
+will now look like this:
+
+NORTON
+* Right-click the Norton 360 Premier Edition icon in the system tray and
+select Disable Antivirus Automatic-Protect.
+* You will get a new dialog box with five options: 15 minutes, 1 hour, 5
+hours, Until system restart, Permanently.
+* Choose 5 hours.
+
+PC TOOLS THREATFIRE
+Right-click on ThreatFire's icon near the clock (it's an orange flame)
+and select Suspend.
+When you see that the icon has turned from an orange flame to a blue icon
+with an orange strip in the middle, ThreatFire has been temporarily
+disabled.
+
+Qihoo 360 Total Security
+Right click on the tray icon to bring up the menu.
+Drag the slider at the corner in Protection: On to the left.
+To reactivate real-time protection, open the menu and drag the slider to
+the right.
+
+SYMANTEC ENDPOINT PROTECTION
+Right click on the icon in the taskbar notification area & select
+"Disable Symantec EndPoint Protection".
+
+Windows Defender on Windows 7/8/10
+Right-click on the MSE icon in the system tray and choose Open.
+Click the Settings tab, then click Real Time Protection.
+Uncheck the box next to "Turn on real time protection".
+Click the "Save changes" button.
